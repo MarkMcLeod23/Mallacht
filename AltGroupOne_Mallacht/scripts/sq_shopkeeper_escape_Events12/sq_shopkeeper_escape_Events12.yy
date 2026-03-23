@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sq_shopkeeper_escape_Events12",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sq_shopkeeper_escape_Events12",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

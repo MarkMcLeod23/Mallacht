@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sq_Intro_Events16",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sq_Intro_Events16",
+  "parent":{
+    "name":"AltGroupOne_Mallacht",
+    "path":"AltGroupOne_Mallacht.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

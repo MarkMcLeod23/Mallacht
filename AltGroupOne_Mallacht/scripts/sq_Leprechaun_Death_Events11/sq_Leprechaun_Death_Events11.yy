@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sq_Leprechaun_Death_Events11",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sq_Leprechaun_Death_Events11",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

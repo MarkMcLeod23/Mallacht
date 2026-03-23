@@ -1,0 +1,1 @@
+//sprite_collision_mask(spr_leprechaun_static, false, 2, 0, 0, 100, 100, bboxkind_rectangular, 0)

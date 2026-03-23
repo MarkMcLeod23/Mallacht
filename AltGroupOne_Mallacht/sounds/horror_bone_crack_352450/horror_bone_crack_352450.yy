@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"horror_bone_crack_352450",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.1280046,
+  "exportDir":"",
+  "name":"horror_bone_crack_352450",
+  "parent":{
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"horror_bone_crack_352450.mp3",
+  "volume":1.0,
+}

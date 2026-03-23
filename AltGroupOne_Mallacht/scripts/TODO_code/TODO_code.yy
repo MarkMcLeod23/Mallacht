@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TODO_code",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TODO_code",
+  "parent":{
+    "name":"AltGroupOne_Mallacht",
+    "path":"AltGroupOne_Mallacht.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

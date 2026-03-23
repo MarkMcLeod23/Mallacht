@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sq_Fomorian_Intro_Events13",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sq_Fomorian_Intro_Events13",
+  "parent":{
+    "name":"AltGroupOne_Mallacht",
+    "path":"AltGroupOne_Mallacht.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
